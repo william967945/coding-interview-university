@@ -592,6 +592,13 @@ But don't forget to do coding problems from above while you learn!
 - [ ] 1.11 Modules and the Import Statement
 - [ ] 1.12 Exercises
 
+- [x] 5.1 Python’s Sequence Types
+- [x] 5.2 Low-Level Arrays 
+- [x] 5.3 Dynamic Arrays and Amortization
+- [ ] 5.4 Efficiency of Python's Sequence Types
+- [ ] 5.5 Using Array-Based Sequences
+- [ ] 5.6 Multidimensional Data Sets
+
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
@@ -624,8 +631,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
     	- [x] [Arrays CS50 Harvard University](https://www.youtube.com/watch?v=tI_tIZFyKBw&t=3009s)
         - [x] [Arrays (video)](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
         - [x] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [ ] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
-        - [ ] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+        - [x] [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
+        - [x] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] New raw data array with allocated memory
